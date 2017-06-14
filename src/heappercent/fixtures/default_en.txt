@@ -1,0 +1,12 @@
+byte = 1
+# define base 2 units
+kibibyte = byte * 1024     = kib = KiB = k
+mebibyte = kibibyte * 1024 = mib = Mib = m
+gibibyte = mebibyte * 1024 = gib = GiB = g
+tebibyte = gibibyte * 1024 = tib = TiB = t
+
+# define base 10 units
+kilobyte = byte * 1000     = kb
+megabyte = kilobyte * 1000 = mb
+gigabyte = megabyte * 1000 = gb
+terabyte = gigabyte * 1000 = tb
