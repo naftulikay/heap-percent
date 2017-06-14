@@ -1,0 +1,15 @@
+# root oriented
+# directories
+/.vagrant/
+/src/heappercent.egg-info/
+/bin/
+/develop-eggs/
+/eggs/
+/parts/
+
+# files
+/.installed.cfg
+
+# global
+*.pyc
+__pycache__
