@@ -1,11 +1,13 @@
 # root oriented
 # directories
+/.ansible/galaxy-roles
 /.vagrant/
 /src/heappercent.egg-info/
 /bin/
 /develop-eggs/
 /eggs/
 /parts/
+/build/
 
 # files
 /.installed.cfg
