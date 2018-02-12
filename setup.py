@@ -18,7 +18,9 @@ setup(
         'psutil',
     ],
     include_package_data = True,
-    package_data = { '': [ '*.txt' ] },
+    package_data = { '': [
+        'fixtures/*.txt'
+    ]},
     dependency_links = [],
     entry_points = {
         'console_scripts': [
